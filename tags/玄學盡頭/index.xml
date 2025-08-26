@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>玄學盡頭 on 燈峰造集</title>
-    <link>https://alasutoru.github.io/Fermi/tags/%E7%8E%84%E5%AD%B8%E7%9B%A1%E9%A0%AD/</link>
-    <description>Recent content in 玄學盡頭 on 燈峰造集</description>
+    <title>玄學盡頭 on Deepsea Page</title>
+    <link>http://localhost:1313/Fermi/tags/%E7%8E%84%E5%AD%B8%E7%9B%A1%E9%A0%AD/</link>
+    <description>Recent content in 玄學盡頭 on Deepsea Page</description>
     <image>
-      <title>燈峰造集</title>
-      <url>https://alasutoru.github.io/Fermi/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://alasutoru.github.io/Fermi/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Deepsea Page</title>
+      <url>http://localhost:1313/Fermi/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/Fermi/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Aug 2025 00:00:00 +0800</lastBuildDate>
-    <atom:link href="https://alasutoru.github.io/Fermi/tags/%E7%8E%84%E5%AD%B8%E7%9B%A1%E9%A0%AD/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Fermi/tags/%E7%8E%84%E5%AD%B8%E7%9B%A1%E9%A0%AD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>姓名學中五行如何相生相剋</title>
-      <link>https://alasutoru.github.io/Fermi/post/xingmingxue-haomingzi-yunshi/</link>
+      <link>http://localhost:1313/Fermi/post/xingmingxue-haomingzi-yunshi/</link>
       <pubDate>Sun, 24 Aug 2025 00:00:00 +0800</pubDate>
-      <guid>https://alasutoru.github.io/Fermi/post/xingmingxue-haomingzi-yunshi/</guid>
+      <guid>http://localhost:1313/Fermi/post/xingmingxue-haomingzi-yunshi/</guid>
       <description>&lt;p&gt;姓名學透過五行、術理、音形意的系統配置，影響人的性格、健康、事業與財運，是父母能留給子女最重要的無價之寶。&lt;/p&gt;</description>
     </item>
     <item>
       <title>紫微斗數-從疾厄宮，知先天體質之弱處與病根</title>
-      <link>https://alasutoru.github.io/Fermi/post/jiyigong-stars-illness/</link>
+      <link>http://localhost:1313/Fermi/post/jiyigong-stars-illness/</link>
       <pubDate>Tue, 19 Aug 2025 00:00:00 +0800</pubDate>
-      <guid>https://alasutoru.github.io/Fermi/post/jiyigong-stars-illness/</guid>
+      <guid>http://localhost:1313/Fermi/post/jiyigong-stars-illness/</guid>
       <description>紫微斗數 疾厄宮 疾厄宮 主星 命理 養生</description>
     </item>
     <item>
       <title>面相的總體觀念與實戰技巧</title>
-      <link>https://alasutoru.github.io/Fermi/post/face-shape-personality/</link>
+      <link>http://localhost:1313/Fermi/post/face-shape-personality/</link>
       <pubDate>Sun, 10 Aug 2025 00:00:00 +0800</pubDate>
-      <guid>https://alasutoru.github.io/Fermi/post/face-shape-personality/</guid>
+      <guid>http://localhost:1313/Fermi/post/face-shape-personality/</guid>
       <description>面相學 面相與個性 面相與運勢 臉型分析 看相技巧 面相與氣色</description>
     </item>
     <item>
       <title>夢境不是偶然：特殊夢預示人生機運</title>
-      <link>https://alasutoru.github.io/Fermi/post/dreams-and-wealth/</link>
+      <link>http://localhost:1313/Fermi/post/dreams-and-wealth/</link>
       <pubDate>Fri, 08 Aug 2025 00:00:00 +0800</pubDate>
-      <guid>https://alasutoru.github.io/Fermi/post/dreams-and-wealth/</guid>
+      <guid>http://localhost:1313/Fermi/post/dreams-and-wealth/</guid>
       <description>夢境解析 易經解夢 潛意識與夢 夢境與財運 夢境與運勢</description>
     </item>
     <item>
       <title>陽宅風水核心觀念：陽光與陽氣的重要性</title>
-      <link>https://alasutoru.github.io/Fermi/post/fengshui-sunlight-yangqi/</link>
+      <link>http://localhost:1313/Fermi/post/fengshui-sunlight-yangqi/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0800</pubDate>
-      <guid>https://alasutoru.github.io/Fermi/post/fengshui-sunlight-yangqi/</guid>
+      <guid>http://localhost:1313/Fermi/post/fengshui-sunlight-yangqi/</guid>
       <description>陽宅風水關鍵 陽光重要陽氣與健康 風水健康 風水與財運 陽宅最重要要素</description>
     </item>
   </channel>
