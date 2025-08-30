@@ -20,5 +20,19 @@
       <guid>https://alasutoru.github.io/Fermi/post/ai-prompt-ok/</guid>
       <description>簡介生成式提示詞用法範例</description>
     </item>
+    <item>
+      <title>Apple Pay 蘋果支付貼紙索取</title>
+      <link>https://alasutoru.github.io/Fermi/post/apple-pay-sticker-application/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0800</pubDate>
+      <guid>https://alasutoru.github.io/Fermi/post/apple-pay-sticker-application/</guid>
+      <description>apple pay 蘋果貼紙申請</description>
+    </item>
+    <item>
+      <title>釣魚郵件防範</title>
+      <link>https://alasutoru.github.io/Fermi/post/phishing-email-detection/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0800</pubDate>
+      <guid>https://alasutoru.github.io/Fermi/post/phishing-email-detection/</guid>
+      <description>郵件安全檢查 釣魚郵件判斷 可疑郵件特徵 惡意附件 防止帳號被盜 釣魚信偵測 企業郵件安全</description>
+    </item>
   </channel>
 </rss>
