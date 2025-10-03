@@ -21,6 +21,20 @@
       <description>簡介生成式提示詞用法範例</description>
     </item>
     <item>
+      <title>Hugo配置gitalk</title>
+      <link>https://alasutoru.github.io/Fermi/post/gitalk-comment-system-installation-tutorial-for-hugo/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0800</pubDate>
+      <guid>https://alasutoru.github.io/Fermi/post/gitalk-comment-system-installation-tutorial-for-hugo/</guid>
+      <description>Gitalk Hugo 留言板 GitHub Issues</description>
+    </item>
+    <item>
+      <title>忘記密碼要重置才是正確的！</title>
+      <link>https://alasutoru.github.io/Fermi/post/password-security-hashing-salt-why-no-recall/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0800</pubDate>
+      <guid>https://alasutoru.github.io/Fermi/post/password-security-hashing-salt-why-no-recall/</guid>
+      <description>密碼安全 服務端不存儲原密碼 數據庫安全 哈希加密</description>
+    </item>
+    <item>
       <title>網紅買粉絲。平台看得見</title>
       <link>https://alasutoru.github.io/Fermi/post/influencer-fake-followers-data-scandal/</link>
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0800</pubDate>
