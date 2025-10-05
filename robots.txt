@@ -1,3 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /Fermi/search/
+
 Sitemap: https://alasutoru.github.io/Fermi/sitemap.xml
