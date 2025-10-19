@@ -11,8 +11,43 @@
     </image>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Oct 2025 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://alasutoru.github.io/Fermi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>應該避免的數據陷阱</title>
+      <link>https://alasutoru.github.io/Fermi/post/digital-marketing-data-fallacies-rational-thinking/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0800</pubDate>
+      <guid>https://alasutoru.github.io/Fermi/post/digital-marketing-data-fallacies-rational-thinking/</guid>
+      <description>數據陷阱 理性思考 價量陷阱 賭徒陷阱 因果陷阱</description>
+    </item>
+    <item>
+      <title>如何預估媒體的CPA</title>
+      <link>https://alasutoru.github.io/Fermi/post/cpa-cost-per-action-estimation-factors/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0800</pubDate>
+      <guid>https://alasutoru.github.io/Fermi/post/cpa-cost-per-action-estimation-factors/</guid>
+      <description>CPA 轉換成本 轉換率 轉換路徑 CPC</description>
+    </item>
+    <item>
+      <title> 程序化購買成效</title>
+      <link>https://alasutoru.github.io/Fermi/post/programmatic-buy-kpi-metrics-targeting/</link>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0800</pubDate>
+      <guid>https://alasutoru.github.io/Fermi/post/programmatic-buy-kpi-metrics-targeting/</guid>
+      <description>程序化購買 廣告KPI 媒體指標 能見度 轉換指標</description>
+    </item>
+    <item>
+      <title>媒體代碼蒐集再行銷或轉換代碼</title>
+      <link>https://alasutoru.github.io/Fermi/post/media-tag-conversion-tracking-gtm/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0800</pubDate>
+      <guid>https://alasutoru.github.io/Fermi/post/media-tag-conversion-tracking-gtm/</guid>
+      <description>媒體代碼 轉換追蹤 歸因 代碼管理工具 GTM</description>
+    </item>
+    <item>
+      <title>程序化購買與即時競價</title>
+      <link>https://alasutoru.github.io/Fermi/post/programmatic-buy-rtb-vs-traditional-ads/</link>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 +0800</pubDate>
+      <guid>https://alasutoru.github.io/Fermi/post/programmatic-buy-rtb-vs-traditional-ads/</guid>
+      <description>程序化購買 即時競價 RTB 檔購式 廣告效益</description>
+    </item>
     <item>
       <title>第三方追蹤是什麼</title>
       <link>https://alasutoru.github.io/Fermi/post/third-party-ad-tracking-exposure-measurement/</link>
